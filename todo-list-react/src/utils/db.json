@@ -1,0 +1,18 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "name": "🛒 Hacer las compras",
+        "isCompleted": false,
+        "description": "🥛 Leche, 🍞 Pan, 🥚 Huevos, y 🍎 Frutas",
+        "creator": "Alice"
+      },
+      {
+        "id": 2,
+        "name": "📊 Finalizar el reporte",
+        "isCompleted": false,
+        "description": "📝 Completar el reporte final del proyecto",
+        "creator": "Boby"
+      }
+    ]
+  }
